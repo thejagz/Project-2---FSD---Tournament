@@ -15,4 +15,8 @@ Download git repository and have it in location readily available
 - 7) Run '\i tournament.sql' this will create database and tables
 - 8) Run '\q' to exit postgres cli
 - 9) Run 'python tournament_test.py' to run test cases.
-- 10) tournament.py contains methods to intereact with database.
+- 10) tournament.py contains methods to interact with database.
+- 
+Once finished
+- Run 'exit'
+- Run 'vagrant halt' to stop vm
