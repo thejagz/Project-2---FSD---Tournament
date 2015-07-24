@@ -16,7 +16,7 @@ Download git repository and have it in location readily available
 - 8) Run '\q' to exit postgres cli
 - 9) Run 'python tournament_test.py' to run test cases.
 - 10) tournament.py contains methods to interact with database.
-- 
-Once finished
+
+- Once finished
 - Run 'exit'
 - Run 'vagrant halt' to stop vm
